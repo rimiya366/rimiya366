@@ -1,8 +1,10 @@
-# Hi, I'm Rimiya 👋
+# Hi, I'm Rimiya Rimshi 👋
 
-Aspiring Data Analyst passionate about transforming raw data into meaningful business insights.
+### Aspiring Data Analyst
 
-## Skills
+I am passionate about transforming raw data into meaningful insights that support better business decisions.
+
+## 🔹 Skills
 
 * SQL
 * Power BI
@@ -10,16 +12,39 @@ Aspiring Data Analyst passionate about transforming raw data into meaningful bus
 * Excel
 * Tableau
 * Data Visualization
+* Data Cleaning
+* Business Analytics
 
-## Currently Learning
+## 🔹 Currently Learning
 
 * Advanced SQL
-* Power BI Dashboarding
-* Business Analytics
+* Power BI Dashboard Development
 * Data Storytelling
+* Business Communication
+* Analytics Consulting
 
-## Connect With Me
+## 🔹 Projects
+
+📊 Building real-world Data Analytics projects involving:
+
+* Sales Analysis
+* Customer Analytics
+* Business Dashboards
+* Data Visualization
+* Reporting Automation
+
+## 🔹 Goals for 2026
+
+* Build a strong analytics portfolio
+* Secure a Data Analyst role
+* Work with real business datasets
+* Develop analytics consulting skills
+* Build a data-driven business
+
+## 🔹 Connect With Me
 
 LinkedIn: [www.linkedin.com/in/rimiya-rimshi-k-m](http://www.linkedin.com/in/rimiya-rimshi-k-m)
 
-Email: [rimiyarimshi07@gmail.com](mailto:rimiyarimshi07@gmail.com)
+GitHub: github.com/rimiya366
+
+📍 Kozhikode, Kerala, India
