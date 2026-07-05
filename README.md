@@ -1,7 +1,4 @@
-## Connect me:
 
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rimiyaa._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rimiya-rimshi-k-m) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rimiyarimshi07@gmail.com) 
 ## 👨‍💻 About Me
 Hi there! I'm **Rimiya Rimshi K M**, a detail-oriented **Data Analyst** from Kannur, Kerala, India 🇮🇳. I have hands-on experience in data visualization, automated MIS reporting, and predictive analytics to support business operations and strategic data-driven decision making.
 
@@ -92,12 +89,10 @@ I believe great things happen when curious minds work together. Whether you are 
 
 Let's connect and turn ideas into intelligent, data-driven solutions!
 
-📬 Find Me Everywhere
-* [LinkedIn](https://linkedin.com/in/linkedin.com/in/rimiya-rimshi-k-m)
-* [GitHub](https://github.com/rimiya366)
+# 📬 Find Me Everywhere
+### Connect me:
 
-✨ "The goal is to turn data into information, and information into insight." — Carly Fiorina ✨
----
-[![](https://komarev.com/ghpvc/?username=rimiya366&icon=0&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rimiyaa._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rimiya-rimshi-k-m) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rimiyarimshi07@gmail.com) 
+
+
