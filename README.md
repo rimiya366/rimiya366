@@ -5,7 +5,7 @@
 
 
 
-![Streamlit App Screenshot](rimiya photo.png)
+![](screenshots/rimiya_photo.png)
 
 
 ## 👨‍💻 About Me
