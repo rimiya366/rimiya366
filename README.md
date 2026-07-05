@@ -5,7 +5,7 @@
 
 
 
-![](screenshots/rimiya_photo.png)
+   ![](rimiya_photo.png)
 
 
 ## 👨‍💻 About Me
