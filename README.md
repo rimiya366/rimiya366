@@ -4,6 +4,10 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rimiyaa._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rimiya-rimshi-k-m) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rimiyarimshi07@gmail.com) 
 
 
+
+![Streamlit App Screenshot](rimiya photo.png)
+
+
 ## 👨‍💻 About Me
 Hi there! I'm **Rimiya Rimshi K M**, a detail-oriented **Data Analyst** from Kannur, Kerala, India 🇮🇳. I have hands-on experience in data visualization, automated MIS reporting, and predictive analytics to support business operations and strategic data-driven decision making.
 
