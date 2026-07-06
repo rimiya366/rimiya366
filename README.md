@@ -71,8 +71,6 @@ When I am not coding, I am exploring AI-assisted data analysis and staying at th
 
 ### 🤝 Open to Collaboration
 I believe great things happen when curious minds work together. Whether you are a fellow learner, a developer, or a business professional — let's build something impactful.
-🤝 Open to Collaboration
-I believe great things happen when curious minds work together. Whether you are a fellow learner, a developer, or a business professional — let's build something impactful.
 
 🧩 Areas I'd Love to Collaborate On
 | Domain | What We Can Build Together |
