@@ -8,12 +8,13 @@ When I am not coding, I am exploring AI-assisted data analysis and staying at th
 
 "In God we trust; all others must bring data." — W. Edwards Deming
 
-## 🎯 What I'm Working On
-🔭 Currently Building: Optimized ETL pipelines and business intelligence dashboards
-🌱 Currently Learning: Advanced Financial Reporting & Predictive Analytics
-🧠 Exploring: AI-Assisted Data Analysis, Prompt Engineering & MLOps basics
-💡 Goal: Deployed highly efficient, localized analytical tools that accelerate executive decision-making
-📫 Reach Me At: rimiyarimshi07@gmail.com
+## 🎯 Current Focus & Goals
+
+*   🔭 **Currently Building:** Optimized ETL pipelines and business intelligence dashboards.
+*   🌱 **Currently Learning:** Advanced Financial Reporting & Predictive Analytics.
+*   🧠 **Exploring:** AI-Assisted Data Analysis, Prompt Engineering, and MLOps basics.
+*   💡 **Ultimate Goal:** Deploy highly efficient, localized analytical tools that accelerate executive decision-making.
+*   📫 **Reach Me At:** rimiyarimshi07@gmail.com
 
 ## 🛠️ Tech Stack & Tools
 
