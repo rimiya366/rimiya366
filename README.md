@@ -80,11 +80,12 @@ I believe great things happen when curious minds work together. Whether you are 
 | **Retail & HR Analytics**| Workforce diagnostic sheets, inventory monitoring frameworks, supply chain optimization |
 | **Competitions & Hackathons** | Global data challenges, open-source data utilities, and business intelligence sprint events |
 
-💬 What I Bring to the Table
-🔍 Rigorous attention to detail and a strong analytical mindset
-🐍 Solid Python data stack skills paired with highly optimized SQL querying capabilities
-📊 Ability to write advanced conditional DAX logic (e.g., `SWITCH(TRUE())`) for automated enterprise alerts
-🤝 A collaborative, continuous-learning attitude focused on data integrity and quality governance
+### 💬 What I Bring to the Table
+
+*   🔍 **Rigorous Attention to Detail:** A strong analytical mindset focused on data accuracy.
+*   🐍 **Technical Synergy:** Solid Python data stack skills paired with highly optimized SQL querying capabilities.
+*   📊 **Advanced Analytics:** Ability to write complex conditional DAX logic (e.g., `SWITCH(TRUE())`) for automated enterprise alerts.
+*   🤝 **Professional Integrity:** A collaborative, continuous-learning attitude focused on data integrity and quality governance.
 
 Let's connect and turn ideas into intelligent, data-driven solutions!
 
