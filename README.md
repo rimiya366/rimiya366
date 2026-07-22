@@ -1,6 +1,6 @@
 
 ## 👨‍💻 About Me
-Hi there! I'm **Rimiya Rimshi K M**, a detail-oriented **Data Analyst** from Kannur, Kerala, India 🇮🇳. I have hands-on experience in data visualization, automated MIS reporting, and predictive analytics to support business operations and strategic data-driven decision making.
+Hi there! I'm **Rimiya Rimshi K M**, an aspiring **Data Scientist** from Kerala, India 🇮🇳. I have hands-on experience in data visualization, automated MIS reporting,LLM Applications and predictive analytics to support business operations and strategic data-driven decision making.
 
 I specialize in managing complex datasets, performing rigorous data cleaning, and designing optimized Star Schema data modeling to ensure data quality and integrity. I am adept at translating multi-million-row transaction logs into interactive KPI dashboards under tight deadlines and enjoy turning complex data into clear, actionable stories.
 
